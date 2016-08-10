@@ -6,7 +6,7 @@ var capture = function(){
     var uri = 'org-protocol://';
     if (selection != "")
     {
-	uri += 'capture:/p/';
+	uri += 'capture:/w/';
     }
     else
     {
